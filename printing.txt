@@ -1,6 +1,0 @@
-printing.txt
-Created Thu 06 Aug 2020 02:15:53 PM AKDT
-Copyright (C) 2020 by Raymond E. Marcil <marcilr@gmail.com>
-
-
-Printing
